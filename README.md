@@ -4,10 +4,7 @@
 ## **Contact info**
 
 ##### **EMAIL**
-> ###### [andreasdevantier@gmai.com] (mailto:andreasdevantier@gmai.com)
-
-> <a href="mailto:andreasdevantier\@gmai.com">mailto:andreasdevantier\@gmai.com</a>
-
+> ###### [andreasdevantier@gmai.com]
 
 
 ##### **PHONE NUMBER**
