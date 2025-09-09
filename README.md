@@ -6,7 +6,7 @@
 
 ##### **EMAIL**
 > ###### [andreasdevantier@gmai.com] (mailto:andreasdevantier@gmai.com)
-> <a href="mailto:andreasdevantier\@gmai.com">mailto:andreasdevantier\@gmai.com</a>
+> <a href="mailto:andreasdevantier@gmai.com">mailto:andreasdevantier@gmai.com</a>
 
 
 
